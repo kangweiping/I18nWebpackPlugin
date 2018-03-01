@@ -1,0 +1,12 @@
+{
+  "name": "i18nwebpackplugin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "xlsx": "^0.12.3"
+  }
+}
